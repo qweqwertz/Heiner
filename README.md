@@ -4,7 +4,7 @@
 
 ###Download
 
-[Downloads] (https://github.com/qweqwertz/Heiner/releases)
+[Downloads](https://github.com/qweqwertz/Heiner/releases)
 
 ###Installieren
 
